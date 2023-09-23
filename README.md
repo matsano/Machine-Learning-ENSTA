@@ -24,4 +24,4 @@ This project was implemented in Python.
 - Matheus SANTOS SANO:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
 
-We would like to thank our professors Mr. Adrien Chan Hon Tong, Mr. Gianni Franchi and Mr. Stéphane Herbin for the knowledge taught in Machine Learning Course at [UNICAMP](https://www.ensta-paris.fr/) which were essential for the realization of this project.
+We would like to thank our professors Mr. Adrien Chan Hon Tong, Mr. Gianni Franchi and Mr. Stéphane Herbin for the knowledge taught in Machine Learning Course at [ENSTA Paris](https://www.ensta-paris.fr/) which were essential for the realization of this project.
