@@ -1,5 +1,5 @@
 # Machine-Learning-ENSTA
-Machine Learning Course (MI201) Project
+Machine Learning Course Project
 
 ## 📋 Description
 The goal of the project is to implement a learning approach capable to identify the toppings of a pizza, using real and synthetic data. The synthetic data is composed by pizza drawings, while the real one is real pizzas.
